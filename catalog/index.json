@@ -1,0 +1,24 @@
+{
+  "packs": [
+    {
+      "id": "security",
+      "tool": "codex",
+      "version": "1.0.0",
+      "title": "Security Baseline (Codex)",
+      "description": "通用后端与 Web 安全基线（Codex）",
+      "url": "gh://212bit/aitk-rules@main/packs/security_codex.md",
+      "sha256": "2608c61c292744506b18ba15a049347bcdc0fce2458a02cbca4ba0ca53ef753d",
+      "license": "MIT"
+    },
+    {
+      "id": "security",
+      "tool": "claude",
+      "version": "1.0.0",
+      "title": "Security Baseline (Claude)",
+      "description": "通用后端与 Web 安全基线（Claude）",
+      "url": "gh://212bit/aitk-rules@main/packs/security_claude.md",
+      "sha256": "279063a1610593ba61d36bc3eb070166ada6e516df278209bc6cb4766aee1e05",
+      "license": "MIT"
+    }
+  ]
+}
